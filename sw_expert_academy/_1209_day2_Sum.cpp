@@ -7,10 +7,11 @@ using namespace std;
 int matrix[101][101];
 int main()
 {
-	int T;
-	cin >> T;
+	int T=10;
 	for (int test_case = 1; test_case <= T; test_case++)
 	{
+		int number_test;
+		cin >> number_test;
 		vector<int> sum;
 		for (int a_matrix = 1; a_matrix <= 100; a_matrix++)
 		{
@@ -56,7 +57,7 @@ int main()
 			sum.push_back(column_sum);
 		}
 		int max_value = *max_element(sum.begin(), sum.end());
-		cout << "#" << test_case << " " << max_value << endl;
+		cout << "#" << number_test << " " << max_value << endl;
 	}
 	return 0;
 }

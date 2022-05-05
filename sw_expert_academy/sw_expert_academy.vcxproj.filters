@@ -27,5 +27,14 @@
     <ClCompile Include="_1209_day2_Sum.cpp">
       <Filter>소스 파일\_D3</Filter>
     </ClCompile>
+    <ClCompile Include="_1213_day3_String.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="_1215_day3_Palindrome.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="_1216_day3_palindrome2.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
