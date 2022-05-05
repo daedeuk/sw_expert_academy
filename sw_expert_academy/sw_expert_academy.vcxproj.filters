@@ -36,5 +36,14 @@
     <ClCompile Include="_1216_day3_palindrome2.cpp">
       <Filter>소스 파일\_D3</Filter>
     </ClCompile>
+    <ClCompile Include="_1217_day4_involution(거듭제곱).cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="_1220_day5_Magnetic.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="_1221_day5_GNS.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
