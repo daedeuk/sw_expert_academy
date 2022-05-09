@@ -48,5 +48,11 @@
     <ClCompile Include="_1227_day7_cretate_encoder.cpp">
       <Filter>소스 파일\_D3</Filter>
     </ClCompile>
+    <ClCompile Include="_1228_day8_Code_Word.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="_1229_day8_Code_Word2.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
