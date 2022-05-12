@@ -30,11 +30,13 @@ int main()
 				{
 					string c_string;
 					cin >> c_string;
-					command_matrix.push_back(c_string);
-				}
-				for (int r_index = 0; r_index < command_matrix.size(); r_index++)
-				{
-					input_matrix.insert(input_matrix.begin() + c2 + r_index, command_matrix[r_index]);
+					//command_matrix.push_back(c_string);
+				//}
+				//for (int r_index = 0; r_index < command_matrix.size(); r_index++)
+				//{
+					//input_matrix.insert(input_matrix.begin() + c2 + r_index, command_matrix[r_index]);
+					input_matrix.insert(input_matrix.begin() + c2 + c_index, c_string);
+
 				}
 			}
 			else if (c1 == 'D')
