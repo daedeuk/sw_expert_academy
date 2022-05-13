@@ -72,5 +72,23 @@
     <ClCompile Include="_1289_Wonjae_Memory.cpp">
       <Filter>소스 파일\_D3</Filter>
     </ClCompile>
+    <ClCompile Include="_1244_apply_day2_Backtracking.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="_1491_WonJae_Draw_Wall.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="_1493_New_Math.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="_2806_N_Queen.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="_1860_Jingi_s_fish_shaped_bun.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="_1873_sangho_battle_field.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
