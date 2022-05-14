@@ -90,5 +90,17 @@
     <ClCompile Include="_1873_sangho_battle_field.cpp">
       <Filter>소스 파일\_D3</Filter>
     </ClCompile>
+    <ClCompile Include="_2806_N_Queen_2.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="_2805_take_harvest.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="_2814_longest_path.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="2817_partial_sequence.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
