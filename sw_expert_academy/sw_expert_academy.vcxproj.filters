@@ -108,5 +108,8 @@
     <ClCompile Include="_3142_youngjun_s_mysterious_horn.cpp">
       <Filter>소스 파일\_D3</Filter>
     </ClCompile>
+    <ClCompile Include="_3233_divide_square.cpp">
+      <Filter>소스 파일\_D3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
